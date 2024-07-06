@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-front/static/css/main.35754700.css",
+    "main.js": "/react-front/static/js/main.3e59c460.js",
+    "static/media/earth.glb": "/react-front/static/media/earth.a709be604b11b160b160.glb",
+    "static/media/camera-1130731_1920.jpg": "/react-front/static/media/camera-1130731_1920.4af5a6d7e4fbe4701316.jpg",
+    "index.html": "/react-front/index.html",
+    "main.35754700.css.map": "/react-front/static/css/main.35754700.css.map",
+    "main.3e59c460.js.map": "/react-front/static/js/main.3e59c460.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35754700.css",
+    "static/js/main.3e59c460.js"
+  ]
+}
